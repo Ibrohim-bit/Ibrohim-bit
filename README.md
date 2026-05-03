@@ -24,7 +24,7 @@ I am a passionate developer based in **Tashkent, Uzbekistan**. I specialize in b
 
 <br>
 
-### ### 📂 Projects
+#### 📂 Projects
 
 #### 🌍 Tourism Platform (In Progress)
 *A modern web application for discovering tours and travel destinations.*
